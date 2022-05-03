@@ -2,7 +2,7 @@
   "name": "simple-react-library",
   "version": "1.0.0",
   "description": "",
-  "module": "./src/index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "build": "webpack",
     "watch": "webpack watch",
